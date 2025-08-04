@@ -14,4 +14,3 @@
 - add unit tests to components
 - make Text fields and select reusable to prevent repitition
 - move away from step count in quote flow
-- 
